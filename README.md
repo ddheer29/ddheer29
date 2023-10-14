@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyang Dheer</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer</h3>
 
 <img align=“right” width=“400” src=“https://gifdb.com/images/high/man-coding-imagination-jdx1rumta8zi2763.gif”>
 
