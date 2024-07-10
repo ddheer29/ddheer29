@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyang Dheer</h1>
-<h3 align="center">A passionate MERN Stack developer</h3>
+<h3 align="center">A passionate MERN Stack and React-Native developer</h3>
 
 <img align=“right” width=“400” src=“https://gifdb.com/images/high/man-coding-imagination-jdx1rumta8zi2763.gif”>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/d_dheer29" target="blank"><img src="https://img.shields.io/twitter/follow/d_dheer29?logo=twitter&style=for-the-badge" alt="d_dheer29" /></a> </p>
 
-- 🌱 I’m currently learning **React-Native Stack**
+- 🌱 I’m currently learning **React-Native**
 
 - 👨‍💻 All of my projects are available at [https://divyangdheerportfolio.netlify.app/](https://divyangdheerportfolio.netlify.app/)
 
