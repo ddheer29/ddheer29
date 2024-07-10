@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/d_dheer29" target="blank"><img src="https://img.shields.io/twitter/follow/d_dheer29?logo=twitter&style=for-the-badge" alt="d_dheer29" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React-Native Stack**
 
 - 👨‍💻 All of my projects are available at [https://divyangdheerportfolio.netlify.app/](https://divyangdheerportfolio.netlify.app/)
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **ReactJS and React-Native**
 
 - 📫 How to reach me **divyangdheer11@gmail.com**
 
