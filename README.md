@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://divyangdheerportfolio.netlify.app/](https://divyangdheerportfolio.netlify.app/)
 
-- 💬 Ask me about **ReactJS and React-Native**
+- 💬 Ask me about **React-Native and ReactJS**
 
 - 📫 How to reach me **divyangdheer11@gmail.com**
 
