@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/d_dheer29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_dheer29" height="30" width="40" /></a>
+<a href="https://twitter.com/ddheer22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_dheer29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/divyang-dheer-5731b51b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyang-dheer-5731b51b3/" height="30" width="40" /></a>
 <a href="https://instagram.com/ddheer46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_dheer29" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ombhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ombhai" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ddheer29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ombhai" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/divyangdheer11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divyangdheer11" height="30" width="40" /></a>
 </p>
 
